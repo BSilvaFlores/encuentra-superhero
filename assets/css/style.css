@@ -1,0 +1,28 @@
+*{
+    color: rgb(95, 95, 95);
+}
+
+.resultado div{
+    padding-left: 50px;
+}
+
+.img div img{
+    margin-top: 80px;
+    padding-left: 30px;
+}
+
+.tarjeta div{
+    margin-top: 10px;
+}
+
+#chartContainer{
+    margin-top: 150px;
+}
+
+.sectionImg__img{
+    margin: 15px;
+}
+
+#super{
+    color: rgb(201, 201, 201);
+}
